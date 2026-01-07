@@ -93,8 +93,8 @@ All tools and libraries used are free and open-source.
 
 ## Setup Instructions
 
-### 1. Create Virtual Environment
 ```bash
+## 1. Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate   # Windows
 
