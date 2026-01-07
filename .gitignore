@@ -1,0 +1,69 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# ===============================
+# Virtual Environments
+# ===============================
+venv/
+.env
+.env.*
+
+# ===============================
+# Jupyter / Notebooks
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Data (DO NOT COMMIT RAW DATA)
+# ===============================
+data/raw/
+data/processed/
+data/external/
+
+# ===============================
+# Model Artifacts
+# ===============================
+models/
+*.h5
+*.pb
+saved_models/
+checkpoints/
+mlruns/
+
+# ===============================
+# TensorFlow / Keras
+# ===============================
+logs/
+tensorboard/
+events.out.tfevents.*
+
+# ===============================
+# OS / IDE
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Docker
+# ===============================
+*.tar
+
+# ===============================
+# FastAPI / Streamlit
+# ===============================
+*.sqlite3

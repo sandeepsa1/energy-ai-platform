@@ -1,0 +1,12 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+matplotlib
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+mlflow
+streamlit
+python-dotenv
