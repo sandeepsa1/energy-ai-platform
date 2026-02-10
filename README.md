@@ -7,7 +7,7 @@ The project combines:
 - Time-series forecasting
 - Anomaly detection
 - Deep learning
-- Retrieval-Augmented Generation (RAG) 
+- Retrieval-Augmented Generation (RAG)
 - API-based model serving
 
 The goal is to move beyond notebooks and build a real, deployable AI product.
